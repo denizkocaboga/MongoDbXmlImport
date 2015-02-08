@@ -1,6 +1,6 @@
 There are two features:
-1) Bulk import
-2) Get contact info by name
+*1) Bulk import
+*2) Get contact info by name
 
 For bulk import you are given a xml file which has names, lastnames and phone numbers of various people.
 The list is contain more than one phone number for each person and there can be duplicate records.
